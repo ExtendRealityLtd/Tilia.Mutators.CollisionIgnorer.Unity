@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/compare/v1.0.0...v1.1.0) (2019-12-10)
+
+#### Features
+
+* **HowToGuides:** add guide on collision ignorer ([6e4f140](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/commit/6e4f1404a62047ba78e5900d00857f3e1da80412))
+  > added a new guide to show how to add a collision ignorer
+
 ## 1.0.0 (2019-12-09)
 
 #### Features
