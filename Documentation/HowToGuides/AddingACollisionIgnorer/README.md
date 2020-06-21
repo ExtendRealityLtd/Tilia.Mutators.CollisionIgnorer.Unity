@@ -50,21 +50,17 @@ Expand the `Tilia Mutators CollisionIgnorer` Package directory in the Unity Proj
 
 ### Step 5
 
-Select the `Mutators.CollisionIgnorer` GameObject in the Unity Hierarchy window then increase the `Sources -> Elements` 
+Select the `Mutators.CollisionIgnorer` GameObject in the Unity Hierarchy then increase the `Sources -> Elements > Size` property value by `1` on the `Collision Ignorer` component.
 
-> Size property by 1 on the Collision Ignorer component.
-
-Drag and drop the `Cube` GameObject from the Unity Hierarchy window into the newly displayed Element `0` field within the `Sources -> Elements` parameter on the `Collision Ignorer` component.
+Drag and drop the `Cube` GameObject into the newly displayed `Element 0` property value within the `Sources` property on the `Collision Ignorer` component.
 
 ![Drag And Drop Cube Into Element](assets/images/DragAndDropCubeIntoElement.png)
 
 ### Step 6
 
-Increase the `Targets -> Elements -> Size property` by `1` on the `Collision Ignorer` component.
+Increase the `Targets -> Elements -> Size` property value by `1` on the `Collision Ignorer` component.
 
-> The size property will be `0` by default so change it to `1`.
-
-Drag and drop the `Cube (1)` GameObject from the Unity Hierarchy window into the newly displayed Element `0` field within the `Targets -> Elements` parameter on the `Collision Ignorer` component.
+Drag and drop the `Cube (1)` GameObject into the newly displayed `Element 0` property value within the `Targets` property on the `Collision Ignorer` component.
 
 ![Drag And Drop Second Cube Into Element](assets/images/DragAndDropSecondCubeIntoElement.png)
 
@@ -73,5 +69,7 @@ Play the Unity scene you should see `Cube (1)` fall right through `Cube` this is
 ### Done 
 
 You should now have two objects that are no longer able to collide with each other.
+
+![Playing The Unity Scene With Collisions Ignored](assets/images/PlayingTheUnitySceneWithCollisionsIgnored.png)
 
 [Install the Tilia.Mutators.CollisionIgnorer.Unity]: ../Installation/README.md
