@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.19](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/compare/v1.1.18...v1.1.19) (2020-12-11)
+
+#### Bug Fixes
+
+* **HowToGuides:** apply document styling guidelines ([ad747a4](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/commit/ad747a46f73986077575f3845f42703a44361ec2))
+  > The document style guidelines have been updated and now have been applied to the guides in this repo.
+
 ### [1.1.18](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/compare/v1.1.17...v1.1.18) (2020-11-01)
 
 #### Miscellaneous Chores
