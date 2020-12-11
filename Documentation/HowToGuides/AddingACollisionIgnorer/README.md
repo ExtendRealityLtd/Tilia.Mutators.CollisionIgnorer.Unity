@@ -8,11 +8,11 @@
 
 ## Introduction
 
-The `Collision Ignorer` prefab provides a way of allowing two or more objects to ignore collisions with each other.
+The `Mutators.ColliisonIgnorer` prefab provides a way of allowing two or more objects to ignore collisions with each other.
 
 ## Prerequisites
 
-* [Install the Tilia.Mutators.CollisionIgnorer.Unity] package dependency in to your Unity project.
+* [Install the Tilia.Mutators.CollisionIgnorer.Unity] package dependency in to your [Unity] project.
 
 ## Let's Start
 
@@ -44,13 +44,13 @@ Play the Unity scene and you should see `Cube(1)` land on top of `Cube` because 
 
 ### Step 4
 
-Expand the `Tilia Mutators CollisionIgnorer` Package directory in the Unity Project window and select then `Packages -> Tilia Mutators CollisionIgnorer Unity -> Runtime -> Prefabs` directory then drag and drop the `Mutators.ColliisonIgnorer` prefab into the Hierarchy window.
+Expand the `Tilia Mutators CollisionIgnorer` package directory in the Unity Project window and select then `Packages -> Tilia Mutators CollisionIgnorer Unity -> Runtime -> Prefabs` directory then drag and drop the `Mutators.ColliisonIgnorer` prefab into the Hierarchy window.
 
 ![Drag And Drop Collision Ignorer Into Hierachy](assets/images/DragAndDropCollisionIgnorerIntoHierachy.png)
 
 ### Step 5
 
-Select the `Mutators.CollisionIgnorer` GameObject in the Unity Hierarchy then increase the `Sources -> Elements > Size` property value by `1` on the `Collision Ignorer` component.
+Select the `Mutators.CollisionIgnorer` GameObject in the Unity Hierarchy window then increase the `Sources -> Elements > Size` property value by `1` on the `Collision Ignorer` component.
 
 Drag and drop the `Cube` GameObject into the newly displayed `Element 0` property value within the `Sources` property on the `Collision Ignorer` component.
 
@@ -73,3 +73,4 @@ You should now have two objects that are no longer able to collide with each oth
 ![Playing The Unity Scene With Collisions Ignored](assets/images/PlayingTheUnitySceneWithCollisionsIgnored.png)
 
 [Install the Tilia.Mutators.CollisionIgnorer.Unity]: ../Installation/README.md
+[Unity]: https://unity3d.com/
