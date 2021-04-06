@@ -44,9 +44,7 @@ Play the Unity scene and you should see `Cube(1)` land on top of `Cube` because 
 
 ### Step 4
 
-Expand the `Tilia Mutators CollisionIgnorer` package directory in the Unity Project window and select then `Packages -> Tilia Mutators CollisionIgnorer Unity -> Runtime -> Prefabs` directory then drag and drop the `Mutators.ColliisonIgnorer` prefab into the Hierarchy window.
-
-![Drag And Drop Collision Ignorer Into Hierachy](assets/images/DragAndDropCollisionIgnorerIntoHierachy.png)
+Add a `Mutators.ColliisonIgnorer` prefab to the Unity project hierarchy by selecting `GameObject -> Tilia -> Prefabs -> Mutators -> Mutators.ColliisonIgnorer` from the Unity main top menu.
 
 ### Step 5
 
