@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/compare/v1.1.27...v1.2.0) (2021-04-07)
+
+#### Features
+
+* **Utility:** add prefab creator ([435c044](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/commit/435c04454d16b0d5a977933a2d4e38a100ce612a))
+  > The latest version of Zinnia has the basis of a prefab creator that can be used to enable easy adding of prefabs to a scene without needing to drag and drop from directories. Instead a new menu item is added for quickly adding prefabs. The guide has been updated to accommodate this and the FodyWeavers.xml is now located in the root to serve both the Runtime and Editor scripts.
+
+#### Bug Fixes
+
+* **package.json:** add missing reference to Editor directory ([5f080bf](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/commit/5f080bfdeaeb632864673f5c9ed503c6bd4724a6))
+  > The build will fail without referencing this new Editor directory so it has now been added to the package.
+
 ### [1.1.27](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/compare/v1.1.26...v1.1.27) (2021-03-29)
 
 #### Miscellaneous Chores
