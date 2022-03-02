@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/compare/v1.2.15...v1.3.0) (2022-03-02)
+
+#### Features
+
+* **package.json:** add information urls to package ([1cfec06](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/commit/1cfec067a3341c55e3b165d30323e21a04bad813))
+  > The changelog, documentation and license url has been added to the package.json as these are used within the Unity package manager.
+
 ### [1.2.15](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/compare/v1.2.14...v1.2.15) (2022-02-14)
 
 #### Miscellaneous Chores
