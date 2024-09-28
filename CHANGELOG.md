@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.22](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/compare/v2.0.21...v2.0.22) (2024-09-28)
+
+#### Miscellaneous Chores
+
+* **deps:** bump io.extendreality.zinnia.unity from 2.16.1 to 2.16.2 ([917bcb8](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/commit/917bcb87243be33c283c87b2fa15c46a5e757cf0))
+  > Bumps [io.extendreality.zinnia.unity](https://github.com/ExtendRealityLtd/Zinnia.Unity) from 2.16.1 to 2.16.2. - [Release notes](https://github.com/ExtendRealityLtd/Zinnia.Unity/releases) - [Changelog](https://github.com/ExtendRealityLtd/Zinnia.Unity/blob/master/CHANGELOG.md) - [Commits](https://github.com/ExtendRealityLtd/Zinnia.Unity/compare/v2.16.1...v2.16.2)
+
 ### [2.0.21](https://github.com/ExtendRealityLtd/Tilia.Mutators.CollisionIgnorer.Unity/compare/v2.0.20...v2.0.21) (2024-05-11)
 
 #### Miscellaneous Chores
